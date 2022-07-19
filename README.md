@@ -8,5 +8,6 @@ CSV data:
 * Green taxi data: https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/green
 * For-hire vehicles (FHV): https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/fhv
 * For-hire vehicles high volume (FHVHV): https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/fhvhv
+* Misc (zone lookup file): https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/misc
 
 The data was copied from the [NYC TLC website](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
